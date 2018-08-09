@@ -1,0 +1,25 @@
+.msg-val {
+	color: red;
+}
+.msg-success {
+	color: green;
+}
+
+.nav {
+padding-bottom: 54px;
+}
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+/*
+.footer{
+    padding-top: 54px
+     
+}*/
